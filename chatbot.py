@@ -4,7 +4,7 @@
 import openai
 
 # Chave
-openai.api_key = "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"
+openai.api_key = "sk-Py***********************************obidrv"
 
 # função para gerar texto a partir do modelo de linguagem
 def gera_texto(texto):
